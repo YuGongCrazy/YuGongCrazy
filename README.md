@@ -7,9 +7,6 @@
 <!-- 1. 动态打字效果 -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&color=61DAFB&center=true&vCenter=true&width=600&height=50&lines=专注于网络分析+流量监控+OpenWrt开发;喜欢Java后端+SpringBoot+Python爬虫)
 
-<!-- 2. GitHub 统计卡片 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuGongCrazy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuGongCrazy&layout=compact&theme=radical)
 
 </div>
 
