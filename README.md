@@ -8,8 +8,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&color=61DAFB&center=true&vCenter=true&width=600&height=50&lines=专注于网络分析+流量监控+OpenWrt开发;喜欢Java后端+SpringBoot+Python爬虫)
 
 <!-- 2. GitHub 统计卡片 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuGongCrazy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuGongCrazy&layout=compact&theme=radical)
 
 </div>
 
@@ -18,7 +18,6 @@
 ## 🛠️ 技术栈（徽章）
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
